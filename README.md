@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/SivaHariRaj/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/SivaHariRaj/leetcode-solutions/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/SivaHariRaj/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/SivaHariRaj/leetcode-solutions/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/SivaHariRaj/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/SivaHariRaj/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SivaHariRaj/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SivaHariRaj/leetcode-solutions/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/SivaHariRaj/leetcode-solutions/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/SivaHariRaj/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SivaHariRaj/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/SivaHariRaj/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/SivaHariRaj/leetcode-solutions/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/SivaHariRaj/leetcode-solutions/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SivaHariRaj/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
@@ -61,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/SivaHariRaj/leetcode-solutions/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SivaHariRaj/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2469-convert-the-temperature](https://github.com/SivaHariRaj/leetcode-solutions/tree/master/2469-convert-the-temperature) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SivaHariRaj/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -83,4 +87,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SivaHariRaj/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/SivaHariRaj/leetcode-solutions/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/SivaHariRaj/leetcode-solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
