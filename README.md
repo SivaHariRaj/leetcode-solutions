@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/SivaHariRaj/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/SivaHariRaj/leetcode-solutions/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/SivaHariRaj/leetcode-solutions/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/SivaHariRaj/leetcode-solutions/tree/master/0704-binary-search) |
 | [1539-kth-missing-positive-number](https://github.com/SivaHariRaj/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 ## Bit Manipulation
@@ -117,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SivaHariRaj/leetcode-solutions/tree/master/0011-container-with-most-water) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/SivaHariRaj/leetcode-solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
