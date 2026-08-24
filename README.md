@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/SivaHariRaj/leetcode-solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/SivaHariRaj/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/SivaHariRaj/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0704-binary-search](https://github.com/SivaHariRaj/leetcode-solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/SivaHariRaj/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SivaHariRaj/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SivaHariRaj/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/SivaHariRaj/leetcode-solutions/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/SivaHariRaj/leetcode-solutions/tree/master/0704-binary-search) |
 | [1539-kth-missing-positive-number](https://github.com/SivaHariRaj/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 ## Bit Manipulation
 |  |
