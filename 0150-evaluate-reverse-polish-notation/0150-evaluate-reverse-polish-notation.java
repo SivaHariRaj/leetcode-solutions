@@ -19,7 +19,7 @@ class Solution {
         }
     }
     public int evalRPN(String[] tokens) {
-        Stack<Integer> stack=new Stack<>();
+         Deque<Integer> stack = new ArrayDeque<>();
         for(String d:tokens)
         {
             if (d.equals("+") || d.equals("-") ||
