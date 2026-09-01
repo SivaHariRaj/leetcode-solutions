@@ -1,6 +1,6 @@
 class MinStack {
-Stack<Integer> stack=new Stack<>();
-        Stack<Integer> min=new Stack<>();
+    Deque<Integer> stack = new ArrayDeque<>();
+    Deque<Integer> min = new ArrayDeque<>();
     public MinStack() {
     }
     
