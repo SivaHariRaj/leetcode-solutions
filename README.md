@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SivaHariRaj/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SivaHariRaj/leetcode-solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/SivaHariRaj/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/SivaHariRaj/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/SivaHariRaj/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/SivaHariRaj/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SivaHariRaj/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/SivaHariRaj/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/SivaHariRaj/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/SivaHariRaj/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SivaHariRaj/leetcode-solutions/tree/master/0217-contains-duplicate) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/SivaHariRaj/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/SivaHariRaj/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/SivaHariRaj/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SivaHariRaj/leetcode-solutions/tree/master/0217-contains-duplicate) |
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SivaHariRaj/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/SivaHariRaj/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/SivaHariRaj/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Math
 |  |
