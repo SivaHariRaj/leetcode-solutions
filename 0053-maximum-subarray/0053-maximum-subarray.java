@@ -1,21 +1,13 @@
 class Solution {
-    public int maxSubArray(int[] nums) {
+    public int maxSubArray(int[] nums)
+     {
+        //kadane algorithm
+        int currentsum=nums[0];
         int max=nums[0];
-        int current=nums[0];
         for(int i=1;i<nums.length;i++)
         {
-               if(current+nums[i]<nums[i])
-               {
-                current=nums[i];
-               }
-               else
-               {
-                    current=current+nums[i];
-               }
-               if(max<current)
-               {
-                max=current;
-               }
+              currentsum=Math.max(nums[i],currentsum+nums[i]);
+              max=Math.max(max,currentsum);
         }
         return max;
     }
